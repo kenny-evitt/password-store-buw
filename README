@@ -4,6 +4,11 @@ by Jason Donenfeld
    Jason@zx2c4.com
 ======================
 
+This is a 'soft fork' for adding clipboard support in Bash on Ubuntu on
+Windows. This repo should otherwise track the upstream repo exactly and is
+only intended to persist until the relevant changes have been accepted and
+merged into the upstream repo.
+
 This is a very simple password store that encrypts passwords using gpg and
 places the encrypted password in a directory. It can generate new passwords
 and keep track of old ones.
